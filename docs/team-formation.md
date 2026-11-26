@@ -1,53 +1,49 @@
-# Team Formation Document - Brooz
+# Team Formation Document
 
 ## Team Information
-- Team Name: Brooz
-- Section: Section 101
-- Project: Brooz E-Commerce Store
-- GitHub Repository: https://github.com/aalriqeb-source/brooz-store
+Team Name: Brooz
+Section: 101
+Project Name: Brooz E-Commerce Store
+GitHub Repository: https://github.com/aalriqeb-source/brooz-store
 
-## Team Members and Roles
+## Team Members & Roles
 
-1. Majed Iyad Khamis Alladaa (مجد إياد خميس اللدعة) - Product Owner
-- Student ID: 120220270
-- Email: malladaa3@smail.ucas.edu.ps
-- Phone: 0597722238
-- GitHub: majedeyad2412-ui
-- Role Justification: Chosen because he understands online shopping requirements well. He manages the product backlog, sets feature priorities, and checks completed work.
+1. Majed Eyad Khamis Alladaa (120220270) - Product Owner
+Email: malladaa3@smail.ucas.edu.ps
+Phone: 0597722238
+GitHub: majedeyad2412-ui
+Role Justification: Understands the store requirements well, manages the product backlog, sets story priorities, and checks acceptance criteria.
 
-2. Abdulrazzaq Ahmad Abdulrazzaq Al-Raqeb (عبد الرازق احمد عبد الرازق الرقب) - Scrum Master
-- Student ID: 120230759
-- Email: aalriqeb@smail.ucas.edu.ps
-- Phone: [Add phone number]
-- GitHub: aalriqeb-source
-- Role Justification: Chosen for being organized and familiar with GitHub. He schedules team meetings, tracks tasks on the project board, and helps solve blockers.
+2. Abdulrazeq Ahmad Abdulrazeq Alriqeb (120230759) - Scrum Master
+Email: aalriqeb@smail.ucas.edu.ps
+Phone: 0595553821
+GitHub: aalriqeb-source
+Role Justification: Organized and keeps track of deadlines, schedules team meetings, manages the GitHub repository and sprint board, and helps solve blockers.
 
-3. Abdulrazzaq Mohammed Abdulrazzaq Al-Raqeb (عبد الرازق محمد عبد الرازق الرقب) - Backend and Database Developer
-- Student ID: 120231502
-- Email: aalreqeb3@smail.ucas.edu.ps
-- Phone: [Add phone number]
-- GitHub: aalreqeb3-coder
-- Role Justification: Chosen for his skills in databases and server development. He builds the PostgreSQL database, Node.js APIs, login security, and backend tests.
+3. Abdulrazeq Mohammad Abdulrazeq Alriqeb (120231502) - Developer (Backend & Database)
+Email: aalreqeb3@smail.ucas.edu.ps
+Phone: 0592706073
+GitHub: aalreqeb3-coder
+Role Justification: Good at database design with PostgreSQL and Prisma, building REST APIs, user authentication, and backend testing.
 
-4. Yaseen Mohammed Youssef Hania (ياسين محمد يوسف هنية) - Frontend Developer
-- Student ID: 120222726
-- Email: Yhania5@smail.ucas.edu.ps
-- Phone: [Add phone number]
-- GitHub: YaseenMHania
-- Role Justification: Chosen for his UI design and frontend skills. He builds the store pages using React and Tailwind CSS and connects them to the backend API.
+4. Yaseen Mohammad Yousef Hania (120222726) - Developer (Frontend)
+Email: Yhania5@smail.ucas.edu.ps
+Phone: 0592052438
+GitHub: YaseenMHania
+Role Justification: Skilled in building responsive pages using React.js and Tailwind CSS and connecting the frontend with the backend APIs.
 
 ## Communication Channels
-- Primary Channel: WhatsApp Group (for daily updates and quick questions)
-- Project Tracking: GitHub Issues and GitHub Projects
-- Backup and Formal Channel: University Email (for official submissions)
-- Response Time: All members check messages daily and reply within 24 hours.
+Primary Channel: WhatsApp Group (Brooz Team - SE 101) for daily updates, quick questions, and meeting reminders.
+Technical & Task Tracking: GitHub Issues and GitHub Projects Board (Brooz Sprint Board).
+Backup Channel: University Email (@smail.ucas.edu.ps) for official submissions to the instructor.
+Response Agreement: All team members agree to check messages daily and reply within 24 hours.
 
 ## Weekly Meeting Schedule
-- Daily Standups: Monday, Wednesday, and Friday at 8:00 PM (15 minutes)
-- Sprint Planning: First day of each 2-week sprint (1 hour)
-- Sprint Review: Last day of each sprint (1 hour)
-- Sprint Retrospective: Right after Sprint Review (45 minutes)
+Daily Standups: Monday, Wednesday, Friday at 8:00 PM (15 minutes max on WhatsApp call).
+Sprint Planning: First day of each Sprint (Sunday at 7:00 PM, 1 hour).
+Sprint Review / Demo: Last day of each Sprint (Thursday at 7:00 PM, 1 hour).
+Sprint Retrospective: Right after Sprint Review (Thursday at 8:00 PM, 45 minutes).
 
-## Notes
-- All team members contribute to coding and testing in every sprint alongside their main Scrum roles.
-- Roles can rotate in later sprints if the team agrees during a retrospective.
+## Additional Notes
+All 4 team members will write code and tests in every sprint in addition to their administrative roles.
+Roles can rotate in future sprints if the team agrees during the retrospective.
