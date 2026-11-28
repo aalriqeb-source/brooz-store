@@ -75,6 +75,12 @@ Project Management: GitHub Projects
 Testing: Jest + Supertest (for unit and API integration testing to achieve 70%+ test coverage)
 CI/CD: GitHub Actions (runs automated tests on pull requests)
 
+### Frontend Stack
+- **Framework:** React 18+ (built with Vite for fast bundling and hot module replacement)
+- **Routing:** React Router DOM (Client-side navigation across Home, Login, Register, and Storefront pages)
+- **Styling & UI:** Tailwind CSS (Utility-first responsive CSS framework for clean, modern, and consistent layouts)
+- **HTTP Client & Auth State:** Fetch API / Axios with JWT (`localStorage`) session management for authenticated requests
+
 ## 7. System Architecture
 Brooz follows a 3-Tier Client-Server Architecture that separates the user interface, business logic, and data storage:
 
@@ -103,6 +109,12 @@ The project will be considered successful if:
 - [ ] Security best practices are followed
 - [ ] Project-specific: Shoppers can accurately filter products across all four departments (Men's, Women's, Accessories, and Home Goods) by category, size, and price range.
 - [ ] Project-specific: Real-time inventory stock updates automatically upon order placement to prevent customers from ordering out-of-stock sizes or items.
+
+### Frontend & UX Success Criteria
+- **Responsive Design:** Fully adaptive layout that renders cleanly across mobile phones, tablets, and desktop screens without horizontal scrolling or broken elements.
+- **Usability & Intuitive Navigation:** Users can register, log in, browse categories, search for products, and manage their cart within 3 clicks or fewer.
+- **Visual Consistency & Feedback:** Clear form validation messages, loading indicators during API calls, and immediate visual feedback on user actions (e.g., login success, error alerts).
+- **Performance:** Fast initial page load and smooth client-side transitions with zero console errors.
 
 ## 10. Risks and Mitigation
 

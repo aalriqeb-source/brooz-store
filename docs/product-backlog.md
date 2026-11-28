@@ -174,3 +174,63 @@ So that I know which products need restocking.
 ## Icebox (Future Ideas)
 - Online card payment integration (Stripe or PayPal)
 - Automated email notifications when order status changes
+
+## Frontend User Stories (Storefront & Shopping Experience)
+
+### US-01: Browse Store Categories
+**As a** shopper,  
+**I want to** browse products organized by main categories (Fashion, Accessories, Home Essentials),  
+**So that** I can easily explore items relevant to my interests.
+
+**Acceptance Criteria:**
+- **Given** I am on the Brooz homepage or store page,
+- **When** I select a specific category from the navigation menu or category cards,
+- **Then** the product grid updates to display only products belonging to that selected category.
+
+---
+
+### US-02: Search Products by Keyword
+**As a** customer,  
+**I want to** search for products using keywords in a search bar,  
+**So that** I can quickly find a specific item without scrolling through the entire catalog.
+
+**Acceptance Criteria:**
+- **Given** I am viewing the storefront,
+- **When** I type a product name or keyword into the search bar and submit,
+- **Then** matching products are displayed immediately, or a clear "No products found" message appears if there are no matches.
+
+---
+
+### US-03: Filter and Sort Products
+**As a** budget-conscious buyer,  
+**I want to** filter products by price range and sort them by price or newest arrivals,  
+**So that** I can find the best options that fit my budget.
+
+**Acceptance Criteria:**
+- **Given** I am viewing a list of products,
+- **When** I apply a price range filter or select a sorting option (e.g., Price: Low to High),
+- **Then** the displayed products update dynamically to match the selected filter and sort order.
+
+---
+
+### US-04: View Product Details
+**As a** potential buyer,  
+**I want to** click on a product card to view its dedicated details page (high-resolution image, price, description, and stock availability),  
+**So that** I can make an informed decision before purchasing.
+
+**Acceptance Criteria:**
+- **Given** I see a product card in the catalog,
+- **When** I click on the product title or image,
+- **Then** I am navigated to `/products/:id` showing the product's full description, price, availability status, and an "Add to Cart" button.
+
+---
+
+### US-05: Manage Shopping Cart
+**As a** customer,  
+**I want to** add products to my shopping cart, adjust item quantities, and remove items,  
+**So that** I can review my selected items and total cost before checkout.
+
+**Acceptance Criteria:**
+- **Given** I am viewing a product or my shopping cart page,
+- **When** I click "Add to Cart" or update item quantities,
+- **Then** the cart badge counter and subtotal price update accurately in real time.
